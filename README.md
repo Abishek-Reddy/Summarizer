@@ -12,7 +12,7 @@ Hugging Face summarization model is pre-built and we are just utilizing it to su
 
 ## Authors
 
-* **[Abishek-Reddy]**(https://github.com/Abishek-Reddy)
+* [Abishek-Reddy](https://github.com/Abishek-Reddy)
 
 ## Acknowledgments
 
